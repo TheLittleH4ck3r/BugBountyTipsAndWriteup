@@ -1,1 +1,1 @@
-# BugBounty_TipsAndTricks
+# BugBountyTipsAndTricks
