@@ -4,6 +4,6 @@
 
 <h2>Recon Methodology by  Orwa Atyat (https://orwaatyat.medium.com/my-methodology-in-recon-and-find-bugs-my-methodology-in-hunting-using-phone-ccc9fe06dd2d)</h2>
 
-<a href="https://twitter.com/theCyberGuy0"><img align="right" width="250" height="250px" align="left" src="https://twitter.com/theCyberGuy0/photo"/></a>
+<a href="https://twitter.com/theCyberGuy0"><img align="right" width="250" height="250px" align="left" src="https://user-images.githubusercontent.com/79082257/144823196-cea491f9-2580-403f-b669-8f4d3299428f.jpg"/></a>
 
 <h2 align="center">https://github.com/Cyber-Guy1/theCyberGuy_Recon_V1.0</h2>
