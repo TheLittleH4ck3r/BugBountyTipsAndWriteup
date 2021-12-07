@@ -14,3 +14,8 @@
 #
 #
 #
+#
+
+<a href="https://twitter.com/harshbothra_"><img align="right" width="250" height="250px" align="left" src="https://images.ctfassets.net/9snkwzlabuv8/6xOqdPtZGbct4nqh19Qk6f/7cfe4453fbe656bd4912206ec6ed3725/1_2XDnpgCT3Ims0bIAn-Zp6g.jpeg?fit=scale&w=130&q=90&fm=webp"/></a>
+
+<h2 align="center">Scope Based Recon Methodology by Harsh Bothra(https://cobalt.io/blog/scope-based-recon-smart-recon-tactics)</h2>
