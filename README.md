@@ -18,3 +18,9 @@
 - **[Sql Injection](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/SQL%20INJECTION.md)**
 - **[Ssrf](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/SSRF.md)**
 - **[Xss](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/XSS.md)**
+
+
+
+<h2>Bypass List</h2>
+
+- **[403 Bypass](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/403%20BYPASS.md)**
