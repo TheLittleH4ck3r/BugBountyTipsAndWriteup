@@ -3,7 +3,7 @@
 <h2>Recon</h2>
 
 - **[Bug Bounty Recon](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/RECON.md)**
-- **[Github Recon](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/RECON.md)**
+- **[Github Dorking](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/RECON.md)**
 
 
 <h2>List</h2>
