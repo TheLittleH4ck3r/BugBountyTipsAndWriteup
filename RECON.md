@@ -8,5 +8,5 @@
 #
 #
 <a href="https://twitter.com/theCyberGuy0"><img align="right" width="250" height="250px" align="left" src="https://user-images.githubusercontent.com/79082257/144823196-cea491f9-2580-403f-b669-8f4d3299428f.jpg"/></a>
-#
+
 <h2 align="center">Recon Methodology by TheCyberGuy(https://github.com/Cyber-Guy1/theCyberGuy_Recon_V1.0)</h2>
