@@ -13,3 +13,4 @@ Payloads
 
 
 https://www.cyberick.com/post/xss-payload-filter-bypass-by-xploiterr
+https://infosecwriteups.com/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975
