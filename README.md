@@ -4,7 +4,7 @@
 
 - **[Bug Bounty Recon](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/RECON.md)**
 - **[Github Dorking](https://github.com/M4ddy-4/BugBountyTipsAndWriteup/blob/main/Github.md)**
-- **[Shodan Dorking](https://github.com/M4ddy-4/BugBountyTipsAndWriteup/blob/main/Github.md)**
+- **[Shodan Dorking](https://github.com/TheLittleH4ck3r/BugBountyTipsAndWriteup/blob/main/Shodan.md)**
 
 
 <h2>List</h2>
