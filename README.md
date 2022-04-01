@@ -13,6 +13,7 @@
 - **[Csrf](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/CSRF.md)**
 - **[Idor](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/IDOR.md)**
 - **[Information Disclosure](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/INFORMATION%20DISCLOSURE.md)**
+- **[JWT](https://github.com/TheLittleH4ck3r/BugBountyTipsAndWriteup/blob/main/JWT.md)**
 - **[Oauth](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/OAUTH.md)**
 - **[Open Redirect](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/OPEN%20REDIRECT.md)**
 - **[Rce](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/RCE.md)**
