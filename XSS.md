@@ -15,3 +15,6 @@ Payloads
 https://www.cyberick.com/post/xss-payload-filter-bypass-by-xploiterr
 
 https://infosecwriteups.com/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975
+
+
+<h3>Akamai WAF bypass</h3> https://twitter.com/xhzeem/status/1377992310974218245
