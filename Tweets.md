@@ -11,3 +11,11 @@ https://twitter.com/Skeletorkeys/status/1495067140927467520
 <h4>Awesome One-liner Bug Bounty</h4> https://github.com/dwisiswant0/awesome-oneliner-bugbounty
 
 <h4>Understand the Postmessage Vulnerabilities and its implications</h4> https://payatu.com/blog/anubhav.singh/postmessage-vulnerabilities
+
+<h4>Impact by extension</h4> https://twitter.com/zapstiko/status/1492790687997186050
+
+<h4></h4>
+
+<h4></h4>
+
+<h4></h4>
