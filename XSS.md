@@ -18,3 +18,6 @@ https://infosecwriteups.com/how-i-was-able-to-bypass-strong-xss-protection-in-we
 
 
 <h3>Akamai WAF bypass</h3> https://twitter.com/xhzeem/status/1377992310974218245
+
+
+<h3>Cloudflare WAF bypass</h3> https://twitter.com/mamunwhh/status/1494045988016648192
