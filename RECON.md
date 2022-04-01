@@ -21,6 +21,9 @@
 
 <h2 align="center">Scope Based Recon Methodology by Harsh Bothra(https://cobalt.io/blog/scope-based-recon-smart-recon-tactics)</h2>
 
+#
+#
+#
 
 <h2 align="center">Recon Wins| Write-up Collection (https://twitter.com/Mah3Sec_/status/1509414501195874306)</h2>
 
