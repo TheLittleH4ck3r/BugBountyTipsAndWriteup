@@ -22,3 +22,5 @@ Payloads
    ");waitfor delay '0:0:5'--
    ));waitfor delay '0:0:5'--
 ```
+
+<h3>Best of sqlmap Cheat Sheet</h3> https://twitter.com/Shubham_pen/status/1508032330820030465
