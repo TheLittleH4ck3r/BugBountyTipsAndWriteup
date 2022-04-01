@@ -1,5 +1,9 @@
 <h1 align="center">BugBountyTipsAndTricks</h1>
 
+<h2>Tweets</h2>
+
+- **[Tweets](https://github.com/TheLittleH4ck3r/BugBountyTipsAndWriteup/blob/main/Tweets.md)**
+
 <h2>Recon</h2>
 
 - **[Bug Bounty Recon](https://github.com/M4ddy-4/BugBountyTipsAndTricks/blob/main/RECON.md)**
